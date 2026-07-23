@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sethuram H G
 
-<!--
-**sethuramhg/sethuramhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Holder & Student  
+💻 Future Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+## 📚 My Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 Currently Learning: CCNA & Networking  
+🔜 Next: Linux  
+🔜 Then: AWS & Azure  
+🎯 Goal: DevOps
+
+🌱 Learning step by step and building practical projects along the way.
