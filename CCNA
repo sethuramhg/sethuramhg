@@ -4,23 +4,23 @@
 
 ## 📚 What I'm Learning
 
-- 🌐 Networking Fundamentals
-- 🔌 Network Devices
-- 🖥️ OSI Model
-- 🌍 TCP/IP Model
-- 🔢 IPv4 & IPv6
-- 🧮 Subnetting
-- 🔀 Switching
-- 🏷️ VLAN & Trunking
-- 🛣️ Routing
-- 📡 DHCP
-- 🔐 Network Security Basics
-- 🛠️ Cisco IOS Commands
+- Networking Fundamentals
+- OSI Model
+- TCP/IP Model
+- IPv4 and IPv6
+- IP Addressing
+- Subnetting
+- Switching
+- VLAN and Trunking
+- Routing
+- DHCP
+- Cisco IOS Commands
+- Network Troubleshooting
 
-## 🧪 Hands-On Labs
+## Practical Labs
 
-- Router Configuration
-- Switch Configuration
+- Basic Router Configuration
+- Basic Switch Configuration
 - VLAN Configuration
 - Inter-VLAN Routing
 - Static Routing
